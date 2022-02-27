@@ -1,0 +1,13 @@
+.btn-beige {
+	background: rgb(205, 198, 182);
+	color: black;
+	font-weight: bold;
+	padding: 15px 20px;
+	border-radius: 4px;
+
+}
+
+.btn-beige: hover {
+	background-color: black;
+	color: white;
+}
